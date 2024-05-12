@@ -1,0 +1,6 @@
+('127.0.0.1', 58831) - 00:00:46: %LINK-1-UPDOWN: Interface Port-channel1, changed state to up 1
+('127.0.0.1', 58832) - 00:00:46: %LINK-1-UPDOWN: Interface Port-channel1, changed state to up 2
+('127.0.0.1', 58833) - 00:00:46: %LINK-1-UPDOWN: Interface Port-channel1, changed state to up 3
+('127.0.0.1', 58834) - 00:00:46: %LINK-1-UPDOWN: Interface Port-channel1, changed state to up 4
+('127.0.0.1', 58835) - 00:00:46: %LINK-1-UPDOWN: Interface Port-channel1, changed state to up 5
+('127.0.0.1', 58836) - 00:00:46: %LINK-1-UPDOWN: Interface Port-channel1, changed state to up 6
