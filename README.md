@@ -1,6 +1,6 @@
 # TRIGGER WARNING 🚨🚨🚨
-# I built this with basic knowledge of HTML, CSS, JS and used React for the sake of using it (React code here is shameful)
-# I also didn't take the time to learn git.
+- I built this with basic knowledge of HTML, CSS, JS and used React for the sake of using it (React code here is shameful)
+- I also didn't take the time to learn git.
 
 If you want to see some good React code, please visit my other repos.
 - I am very sorry.
